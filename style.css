@@ -1,0 +1,36 @@
+/*todo: add a black background, white text, and red links  */
+body {
+  background-color: black;
+  color: white;
+}
+
+/*. applies to the red-text class inside html  */
+.red-text {
+  color: red;
+}
+
+a {
+  color: red;
+}
+
+/* todo: add font family of metal mania */
+
+h2, h3 {
+  font-family: 'Metal Mania', cursive;
+}
+
+hr {
+  width: 80%;
+  margin: 20px auto;
+}
+
+
+hr {
+  width: 60%;
+}
+
+
+main {
+  text-align: center;
+  padding: 20px;
+}
